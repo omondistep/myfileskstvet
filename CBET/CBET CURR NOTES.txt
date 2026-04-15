@@ -1,0 +1,549 @@
+﻿
+Qualification: Professional Technical Trainer Level 6
+Unit of competency: Competency Based Education and Training Curriculum Development
+Unit Code: B7102
+Duration of Unit: 30 hours
+Unit Description: This unit covers the competencies required to develop a competence based curriculum . It involves applying curriculum development concepts, developing competency-based education and training curriculum and reviewing curriculum. This standard applies in the Technical and Vocational Education and Training sector
+
+Summary of Learning Outcomes
+    1. Apply curriculum development concepts
+    2. Develop competency based education and training curriculum
+    3. Review CBET curriculum
+
+
+EDUCATION DEPARTMENT
+Course Outline
+
+
+Concepts used in curriculum development
+Education: Education is a Latin word educatio which is derived from the verb word educare. Oluoch (1982) defines it as a process of acquiring and developing desired knowledge, skills and attitudes/values
+School Curriculum: It is drawn from a latin word currere which means a race course or track followed by racing horses. Includes all that which is in the timetable in educational institutions and that which is outside the timetable but within the school environment (co-curricular). 
+    • Kerr ( 1968) defines a curriculum as learning which is planned and guided by the school, whether carried out in groups or individually, inside or outside the school
+    • Bishop (1995) defines a curriculum as sum total of all experiences a pupil undergoes within or without the school to enable students adopt a positive attitude to learning
+    • Shiundu and Omulando (1992) talks about class and out of class activities carried out under the aegis of a school in response to societal demands
+    • Oluoch (1982) defines it as all that which is planned to enable students to develop the desired knowledge skills and attitudes
+Curriculum development : 
+Ndwiga and Maithya (2006) define curriculum development as the planning of learning opportunities intended to bring about certain changes in the learners. The culmination of CD is a school curriculum.
+
+Purposes of the School Curriculum
+    • Translates the national goals into concrete and observable behavioral changes
+    • Regulate teachers role and activities
+    • Specifies objectives that schools should attain
+    • Specifies activities that take place in an institution
+    • Ensures uniformity in coverage of activities
+    • Regulates evaluation procedures of an education system
+
+ Aims of Teaching Curriculum Development
+    • Help teacher trainee understand the procedures and strategies of curriculum development
+    • Help them to understand and interpret curriculum programs correctly
+    • Are invited by KNEC to set, moderate, invigilate and mark exams
+    • They form K.I.E. subject and course panels where they write books, develop course outlines, prepare teaching aids and evaluation materials
+    • To be able to translate national goals of education into instructional objectives
+    • Curriculum development is a professional activity and therefore a responsibility to all teachers
+
+DIMENSIONS OF THE SCHOOL CURRICULUM
+Dimensions are aspects or facets of a curriculum. There are four dimensions of the school curriculum:
+    • Formal
+It refers to the courses of study (syllabi) which are offered in a school. It is the subject matter or learning activities structured and graded for any education system running from primary through university e.g. history, geography, Kiswahili etc. The learning activities may be carried in or outside the classroom work. They show objectives to be achieved and methods of achievement.
+    • Non formal
+Refers to organized and planned out of class learning activities in which the students engage in or out of the school compound e.g. games, sports, drama, clubs and other non academic learning experiences. Just like the formal dimension it embodies the objectives, learning activities and student assessment method in the education program made available to all those concerned.
+    • In formal
+Refers to the created environment in which students learn unconsciously through informal learning activities that go on in the school all the time. It involves the day to day experiences and educative influences planned aspects of the environment for e.g. school rules, staff, work, play etc
+    • Emerging
+These refers to the unplanned learning opportunities which occur in a school e.g. parents day, speech day, prize giving, graduation day etc
+
+Elements of the school curriculum
+Definition of elements
+These are components or parts of the school curriculum. Different curriculum experts (e.g. Ralph Tyler, Hilda Taba, Wheeler, Oluoch Gilbert) have identified what they consider the elements of the school curriculum. Ralph Tyler (1949) in his prototype model asked four fundamental questions which must be answered when addressing the elements of the curriculum in schools. 
+
+    1) What educational purpose should the school seek to attain (Objectives); 
+    2) What educational experiences can be provided to attain these purposes? (i.e. the activities, the subject-matter etc);
+    3) How can these educational experiences be organized effectively to achieve these purposes? 
+    4) How can we determine whether or not the expected objectives have been achieved? (Forms of evaluation).
+Ralph Tyler (1949) identified four elements mainly:
+    • Curriculum objectives
+    • Learning experiences
+    • Organization of learning experiences
+    • Evaluation
+
+CURRICULUM OBJECTIVES
+Also called educational objectives. They are descriptions of the ends being sought in educating learners in the society. “What are the general objective (or ends sought) for schools to be established and for what purpose are students being taught in the schools”. Curriculum objectives are expressed in three categories: 
+    a) Aims of Education
+Aims are general and broad statements of intent that provide direction or intent to educational action. 
+    1) Guides for the educational process as expressed by policy makers, educationists, politicians. Educational aims guide the education system in the process of planning education content. Aims are usually written in amorphous terms using words like: learn, know, understand, appreciate, and these are not directly measurable. 
+
+    b) Goals of Education 
+ Goals are broad statements of educational intention which are specified for each level of schooling from pre-primary education to higher education levels. They are time-bound and are stated as expected end-result of schooling at each level of Kenyan education. They may be in either amorphous language or in more specific behavioral terms.
+
+    c) Instructional Objectives
+Instructional objectives describe an intended behavioral change that a learner is expected to exhibit (knowledge, skills, techniques or attitudes acquired) after undergoing a learning experience.An instructional objective is a statement that will describe what the learner will be able to do after completing the instruction (course).Instructional objectives are descriptions of an outcome of action.It is normally expressed in behavioral terms using action verbs. 
+
+
+FUNCTIONS OF CURRICULUM OBJECTIVES
+    i. Define the direction of educational development 
+    ii. Determine the number of levels for the program 
+    iii. Inform students of the standards and expectations of the course 
+    iv. Serve as an implicit contract between instructor and students, setting up a basis for accountability. 
+    v. Drive the curriculum planning 
+    vi. Guide decisions about selection of content, learning experiences and learning strategies
+    vii. Serve as a guide in evaluating instructional progress
+    viii. Reflect the needs and aspirations of society 
+
+SOURCES OF EDUCATIONAL OBJECTIVES
+Needs assessment as a prerequisite for selecting objectives. An assessment of needs therefore is an evaluation of what is required in society in educating the learners. In order to conduct good needs assessment, a validated method of collecting data on opinions of various segment of the society are required. Such information or data are good sources of curriculum objectives.
+
+    1) Needs of society
+The needs of every nation differs from one another, similarly, the needs of a nation at any point in history differs from another period in her history. The needs of society keep changing. These needs are usually stated as ideologies, value system or a national philosophy. In fact no policy on education-can be formulated without first identifying the overall philosophy and goal of the nation. 
+    • Changing life in the society- economic, technological, political, religious etc
+    • Problems and needs of the society
+    • Helps community utilize its resources
+    • Changing the society for the better – poverty, corruption, inflation, leadership wrangles
+    • Social and cultural needs of the society
+It is because of these important needs in every society that has prompted some experts to advocate that curriculum should be society-oriented.
+
+    2) Students’ Needs and Interests
+A study of the learners would seek to identify the needed changes in behavior patterns that an educational institution would seek to attain in its study. The learner is the recipient of the curriculum therefore their interests and needs should be known to be able to catch their attention. A need is the gap or difference between the present condition of the learner and the desirable acceptable norm of the society.  
+    • Learners’ ability both physical and mental should be reviewed. 
+    • Consider the special needs of exceptional children. 
+    • Learners’ needs should be perceived from both the individuality and societal needs
+Learners can make very useful contributions in formulating curriculum objectives, in the following ways:
+(a) Suggesting what is to be taught in line with their needs, interests, maturation and background
+(b) Suggesting what materials will best enhance effective learning
+
+    3) Input from Academic Specialist:
+Subject specialists are also very crucial in formulating curriculum objectives because they are the ones to implement all school programmes. Subject specialists are teachers whose roles are vital because they interact with learners and they know their needs better than other personnel. Teachers’ responsibilities extend beyond the classroom because they exert tremendous influence over the learners. They also act as in loco parent is for students. They know students well and can give advice or suggestions on various ways to adequately educate the learners. Teachers are expected to play the following roles in curriculum planning;
+    • Assist in formulating curriculum objectives and policy;
+    • Selection and determination of learning activities that will be necessary for the achievement of the stated objectives;
+    • Use their knowledge of complex nature of child psychology and children development in planning learning activities;
+    • Maintain high standard of conduct and discipline as an effort towards meeting the goals of education;
+    • Carry out the evaluation of student performance which are useful in formulating future curriculum objectives.
+Advantages of using academic specialists
+    • All text books written in schools are written by subject specialists so their views are those contained in the books and so makes learning easier
+    • Syllabuses produced by KNEC and KIE is the work of the subject specialists
+    • Course and subject panels at KIE are composed of people who are experienced and expertise in their subject
+    • Ensure organization of knowledge is relevant and worthwhile
+    • Ensure knowledge introduced is dynamic and methods of learning are relevant 
+
+    4) Community Sources of Educational Objectives:
+A community is a group of people living together in a given geographical area, and sharing common culture and a way of life, and acting collectively towards achieving a common goal. It is expedient that a school teaches the norms and values of the community where it is situated. In formulating curriculum objectives, community advisory groups might be set to present proposal based on the peculiar problems and experiences of community members. These are then ploughed into the curriculum objectives being specified especially curriculum planning at the community level. There are community resources available in educating a child. Such resources include input form parent, input from certain vocational groups, and suing field trips as important aids to learning. Certainly community input in formulating educational objectives cannot be overemphasized in fulfilling these general national objectives of education at community level.
+
+    5) Psychodynamic factors 
+Before a child can learn appropriately, he must adequately develop physically and mentally. The complex nature of child development has implication for curriculum planning even from the selection of objectives. 
+Educational Psychologists have made significant contributions through their studies, into the factors which influence learning. Modern psychology has broadened and modified perspectives on how children learn. For example, the principle of biological inheritance and Intelligent Quotients (IQ) can set a limit to how much a child can learn. In such a case, there will be need to cater for individual differences in ability to learn when developing curriculum.
+Another issue is the issue of readiness, maturation and learning. Here the age of the learner has considerable influence on what or how much he can learn. Until a child’s cognitive development reaches a certain point which corresponds with certain ages, the child may not be able to learn certain materials.
+Thus, before selecting curriculum objectives, all these factors must be taken into consideration
+
+SCREENS OF CURRICULUM OBJECTIVES
+To screen means to examine or to test the curriculum objectives. Curriculum objectives are screened to find out the following:
+    • If they are relevant
+    • If they are adequate
+    • If they are valid
+    • If they are within the scope
+    • If they are appropriate/suitable to meet the needs of the learners and society
+
+Types of screens
+    a) Philosophical Screens: 
+These constitute the values and beliefs held by a particular nation. They guide the behavior of the citizens of a given country. The philosophical orientation that the education system promotes forms an integral part of the culture of the nation. The philosophical statements usually are expressed in the manifesto of the governing political party of the day. For example in Kenya during the KANU era, the philosophical values expressed were peace, love and unity. In the current coalition government, these values have expanded to include integrity, transparency, accountability, justice, democracy, meritocracy, hard work etc these have to be form part of the curriculum goals of an educational system.
+    b) Psychological Screens
+Psychologists are concerned with establishing patterns of human behavior to understand and predict human behavior. They also look for determinants of behavior in hereditary as well as environmental influences. Insights gained in psychology have a bearing when developing a curriculum. Psychological screen take account of classroom behavior of learners. The following issues should be addressed when screening the appropriateness and scope of curriculum objectives:
+    • Capabilities of the learner
+    • Maturational level of the learners
+    • Students rate of learning
+    • How students learn
+    • Individual aspects
+    c) Sociological Screens
+An obligation of the school is build a curriculum under which the individuals can acquire values and competence for a life in the society. Sociological screen are determined by the culture of a society, which indicated norms, values and complete requirements that are cherished by the society. In approaching curriculum planning analyzing and drawing from the society will indicate:
+    • The kind the knowledge, skills and competence that youth in society will need so that they can cope with tasks and roles in that society
+    • The problems prevalent in society for which education should provide an answer e.g. technological, economical, poverty, corruption, unemployment, drugs etc
+In sociological screens the curriculum designer is actually dealing with cultural values, societal needs and learners’ background (family and religious influences).
+
+LEARNING EXPERIENCES
+Objectives have been defines as changes in behavior that we expect in the learners after going through an educational program. To be able to achieve these objectives learners have to undergo certain experiences. Essentially learning takes place through the experiences, which the leaner has, that is through the reactions he makes with the environment in which he is places (Tyler, 1949). 
+According to Tyler, a learning experience is the interaction between the learners and the external conditions in the environment to which we react. Learning experiences include the learning opportunities provided to the learners. Examples of learning experiences/opportunities include:
+    • Content or subject matter
+    • The teacher
+    • Resource persons
+    • Fellow learners
+    • Resource materials
+    • Teaching methods
+    • Learning activities that enable the learners to interact with this assorted environment of the school setting
+
+CONTENT
+Curriculum objectives determine the content that will be taught. Content comprises the subjects and topics to be covered. The syllabus lists the subjects that will be taught in all classes. The school timetable is an important reflection of the curriculum content. The curriculum content should strive to achieve the national goals of education and objectives as shown in any school syllabus. 
+Criteria for selection of content and learning experiences
+    i. Conformity with objectives: experiences selected must be thoroughly weighed against the school curricula objectives to ensure it gives the students an opportunity to practice the kind of behavior implied by the objectives
+    ii. Validity: whatever experiences be it content, learning activities, or materials must be consistent with development in the subject or knowledge area. To avoid giving obsolete or out of date instruction teachers need to constantly go for retraining and self education to keep abreast of changes in their disciplines
+    iii. Significance: learning experiences must be meaningful in that it contributes to the process of learning. This relates to breadth and depth of the curriculum. Teachers should avoid covering too much concepts, which are in conflict with the objectives of the topic. This can lead to confusion and students not making sense of the content and many activities.
+    iv. Learner ability: learning experiences must be adjusted to the abilities of the learners and individual differences. Students also readily experience what is related to their past experiences. Learning experiences also depends on the circumstances prevailing in their schools, classrooms and society at large.  Some may favor while other may not favor experiences selected for learning.
+    v. Interests: students are likely to interact with situations that are inviting or stimulating. To ignore their interest is to lose their motivation hence affecting the rate at which learning takes place. 
+    vi. Satisfaction: learning experiences must be such that learners derive satisfaction from carrying out the kind of behavior implied by the objectives
+    vii. Relevance: learners must see his experiences as being related to life outside the school to solve his problems or problems of the society in real life. 
+    viii. Consistency with social reality: learning experiences may address the objectives but should not contradict actual situation at home or in society
+    ix. Economy: select learning objectives that are likely to bring about a number of learning outcomes. These permit economy in the use of time.
+    x. Reinforcement: By nature, certain experiences cannot be achieved through a single experience. Selection of learning experiences that reinforce previous or other experiences to achieve objectives can be very useful.
+
+Organization of Learning Experiences
+Once learning experiences and opportunities have been selected they have to be organized so that the desired learning can take place. Usually the curriculum is organized according to subjects. The learning experiences within a subject are organized at three levels: 
+    • The lesson- planned for several days to cover a given topic
+    • The topic- which may cover several lessons to last several days
+    • The units – covers several topics related to a theme
+Principles of organization of content and learning experiences
+Scope: scope describes what is covered or learned. Scope points to breadth and depth of content. Breadth is the amount of detail to include in our teaching while depth is the amount of emphasis this detail should receive. Scope should help students acquire the desired knowledge, skills and attitudes for their level. 
+Sequence: is vertical development from one level to another. It refers to building of new knowledge while drawing from that, which was earlier acquired as it increases in depth and breadth. Some curriculum specialists have tried to apply the principles of simple to complex or familiar to unfamiliar in trying to overcome the sequencing problem.
+Continuity: refers to the many occasions an individual will experience content at different levels of an educational program. It helps the learner through development of skills because important objectives and content are continued and repeated to enable students to acquire high levels of retention level in the area.
+Integration: it emphasizes horizontal relationships between different curricula areas in an attempt to interrelate content or learning experiences in order to enable students perceive unity of knowledge. The cal for integration is to make learning more effective when content from one field is linked meaningfully to content from another field to get a unified view of students’ outlook, skills and attitudes.
+Balance: a balances program ensures that each educational objective is adequately achieved.  A balanced curriculum should develop all major areas concerned with human competence in meeting both the individual and society problems. 
+
+Curriculum Evaluation
+Evaluation is the process of establishing the extent to which the objectives of a programme are being or have been achieved and in which areas it needs improvement. It is an appraisal of the worth of an educational undertaking – from the results a decision can be made to accept, improve or reject the educational program. Evaluation is a process of collection and provision of data for the sake of facilitating decision making at various stages of curriculum development (Shiundu&Omulando, 1992, p. 185). Curriculum evaluation refers to the process of collecting data in a systematic manner for the purpose of assessing quality, effectiveness and worth of a programme. 
+Some of the areas that are evaluated
+    • Objectives
+    • Scope of the content
+    • Quality of personnel
+    • Relative importance of various school subjects 
+    • Equipment’s and instructional materials
+Purposes of the Evaluation
+    a) Individual Students
+ -  To discover what the students have learnt (knowledge, skills, attitudes and adjustment etc) 
+-  To discover where the learner needs help, the nature of the help, his/her areas of strength. 
+-  Data necessary to guide each learner’s all round growth and development. 
+    b) Classroom Purposes
+Provides data that enables the teacher to determine the effectiveness of teaching i.e.
+-  	Which of the objectives have been achieved? 
+    • Is the content relevant and adequate?
+    • Are the methods and activities relevant and practicable? 
+    • Is re-teaching necessary
+    c) Curriculum Materials 
+    • Are they relevant, usable, appropriate and affordable?
+    d) Schools - Wide Purposes 
+    • Asses the overall effectiveness of the institutional programme. 
+    • Reveal learning areas needing more attention throughout the school. 
+    • Assist the school administration and staff in planning for institutional improvement. 
+    e) Curriculum Developers
+    • To provide supportive feedback to facilitate effective decision making in the curriculum development process
+    • Provide information required for re-examination, revision and improvement of the curriculum project
+    • Serves as a guide in review of existing goals of education and formulation of new ones
+    • Provides information for correction during piloting
+    • Ensures program objectives are being achieved during implementation
+    f) Community 
+    • What are the attitudes and inputs of the community to the curriculum and to the curriculum development process? 
+Essentially, evaluation ensures that strengths and weaknesses are detected at an early stage thus saving time, resources and frustration and increase the chances of success of a programme.
+Types of Evaluation
+    a) Pre-assessment / Reflective evaluation 
+Is conducted at the inception of a curriculum project. 
+In a classroom environment it is the process that helps to determine whether the students possess the prerequisite knowledge and skills to enable them proceed with new material. This is useful at the beginning of a new course or for a new teacher posted in a class he/she has not handled before. 
+    b) Formative Evaluation 
+Formation evaluation is that which takes place during the implementation of a curriculum project or programme. It therefore guides and promotes the development of the programme, by providing data for its improvement. Note: Formative evaluation should take place at all stages of curriculum development and implementation
+    c) Summative Evaluation 
+Refers to evaluation carried out at the end of a programme. It facilitates major decisions about whether to continue with the programme as it is; expand it, modify it or stop it all together depending on the extent of success or failure of the programme.
+    d) Impact evaluation
+Is an aspect of summative evaluation; it establishes the impact of the programme on the beneficiaries or recipients of the programme, and the community in general.
+Criteria for Curriculum Evaluation
+Consistency with objectives: Curriculum evaluation should assess and measure the attainment of the objectives of the curriculum. The various domains need to be kept in mind i.e. cognitive, affective and psychomotor. Each level of learning objectives as per each taxonomy should be examined
+Comprehensiveness: To test for comprehensiveness the areas to be covered include: 
+    • All the objectives of the curriculum 
+    • The broad administrative and general aspects of the education systems to find out how relevant the programme is. 
+• 	The instructional methods and materials to establish those that are satisfactory and those which are not;
+• 	The individual learners to identify their needs and to help one plan better for the learning process. 
+• 	The teachers to find out how well they are performing
+Validity: This criterion answers the question “Do the evaluation instruments used e.g. examinations and tests measure the function they are intended to measure?”
+Reliability: Reliable instruments should give same results when administered at different times.
+Continuity: Evaluation should be a continuous process; an integral part of the curriculum development process and classroom instruction. Hence, provide continuous feedback on weaknesses and strengths; for remedial action to be taken
+Relevance: This indicates the value of the intervention or programme in relation to other stakeholders needs, national priorities, international partners’ policies, including the millennium development goals, national development plans etc
+Efficiency: Answers the question; “Does the programme use the resources in the most economical manner to achieve its goals.
+Effectiveness: Is the activity achieving satisfactory results in relation to stated objectives? 
+Impact: What are the results of the intervention, intended and unintended; positive and negative – including social, economic, environmental effects on individuals, institutions and communities?
+Sustainability: This addresses the issue: “Are the activities and their impact likely to continue when external support is withdrawn, and will it be more widely replicated and adopted.” For example if a country institutes “Free Primary Education” as is currently the case in Kenya and many other African countries, with heavy donor support, is this likely to continue in the future.
+Methods of evaluation
+    • Questionnaires
+    • Interviews
+    • Tests
+    • Observation
+    • Documentary analysis
+    • Focused group discussions
+The Role of Teachers in Curriculum Evaluation
+    • Teachers provide data on the progress of students and of materials. 
+    • Teachers are best placed to judge the quality of materials, the depth to which the topics have been or should be dealt with and the sequencing of the topics. 
+    • Teachers are involved in observing and documenting their observations, constructing appropriate tests and examinations, and reporting their findings in a systematic manner.
+    • Teachers are required to document their experiences and those of the learners. These 
+    • experiences are reported in the subject panels during  curriculum development process
+PATTERNS OF CURRICULUM DESIGNS
+Taba (1962:421) defines curriculum design as;
+A statement which identifies the elements of the curriculum, states what their relationships are to each other and indicates the principles of organization and the requirements of that organization for the administrative conditions under which it is to operate. 
+
+Types of curriculum designs 
+    a) Core curriculum design
+This type of curriculum organization was supposed to promote active learning and develop a significant relationship between life and learning.  The term ‘core’ is used in different ways.  In some cases, terms like ‘common learning’, ‘unified studies’ and ‘basic education’ have been used to refer to the  core-curriculum that is essential and is therefore a basic requirement for all students.   It may refer to the compulsory subjects as opposed to the electives. The core curriculum is also seen as that part of the curriculum which is concerned with the types of experiences thought to be necessary for effective living in society.  It is the curriculum design that uses the problem-solving approach, by having the social and personal problems that are significant to the learner become part of its content. In selecting the core subjects, curriculum developers pay attention to the national philosophy and goals of education.  This is why only certain subjects are given prominence and therefore become compulsory while others are electives.  This is seen as an essentialist approach to curriculum development where some subjects are seen as important in the learning of others.
+
+Characteristics of the Core Curriculum
+The following are some of the characteristics of the core curriculum:
+    • It attempts to promote a greater integration of learning by unifying subject matter.
+    • It makes efforts to relate the learning programme to life problems and students interests.
+    • It serves the needs of the society.
+    • It gives students the opportunity to make choices through electives.
+
+Relevance of the core curriculum design to education
+    • It helps to address the individual problems of the learner.  For instance, Social Education and Ethics was meant to focus on the learners problems.
+    • It provides for the acquisition of basic knowledge.
+    • It provides for a variety of activities.
+    • It combines subject matter with the realities and challenges of the day.
+    • It is socially rather than cognitively oriented.
+    • It uses broader units, more flexible and freer instructional procedures and a greater variety of learning experiences than are possible in the subject-centred curriculum.
+    • It is possible to make a connection with the motivation force because students’ experiences are largely used.
+d) Activity/Experience Curriculum Design
+The activity movement grew out of the main child-centred movement.  It is another attempt to address the criticisms levelled against conventional subject-centred design.  The design is planned specifically to counter the passive and sterile learning that isolates learners from their needs and interests as found in the conventional curriculum.
+
+The rationale behind the design is that; people learn only what they experience, and that only the learning that is related to active purpose and is rooted in experience, translates itself into behaviour change.  The design is organized around the needs and interests of the learner.
+
+Characteristics of the Activity/Experience curriculum design
+
+    • The teacher implementing this design should discover what the interests of the students are and help them discover the most important ones.
+    • Pre-planning of the curriculum is not possible and is even undesirable.  The teacher should know the students first.
+    • Cooperative planning is essential for this design.  It is referred to as teacher-pupil planning.
+    • The learners are encouraged to use problem solving methods and to set their own tasks.
+    • The design discourages rigid scheduling; teachers help learners to fashion their study as ideas occur and interests develop.
+    • In the orthodox method all adult interference is eliminated.
+
+Advantages of Activity/Experience curriculum design
+    • Since the activities are based on student needs and interests, motivation is high.
+    • The students are self driven.
+    • It provides for individual differences in the students.
+    • In their problem solving approach, students acquire the skills they need in order to live in their society.
+Disadvantages of the Activity/Experience curriculum design
+
+    • A curriculum based on the needs and interests of the learner cannot adequately provide good preparation for life.
+    • The design lacks a horizontal structure. 
+    • It also lacks continuity or sequence.
+    • The needs and interests of the learner may not be valid or lasting.
+    • The design would be time-consuming.
+
+INTRODUCTION TO COMPETENCE BASED CURRICULUM
+What is a ‘skill’ as it applies to CBT? 
+Skill – ability to perform a given task to the standard of performance expected in the workplace. 
+What is ‘knowledge’ as it applies to CBT? 
+Knowledge is often referred to as ‘underpinning knowledge’. It is the level of knowledge required to understand ‘why’ a skill must be performed in a specific way, how it relates to other skills and to different and more complex situations. 
+What is a competence? 
+    • Ability to apply knowledge and skills to achieve intended results
+    • Is associated with clear ability to successfully carry out occupational activities. 
+    • It is described in terms of ‘skills’, ‘knowledge’, and ‘attitudes’, as well as the typical ‘context’ and ‘level’ that a person that possesses such competence could work in. 
+What is competency? 
+A competency is defined in terms of what a person is required to do (performance), under what conditions it is to be done (conditions), and how well it is to be done (standards).  Competency comprises of four dimensions: 
+    • Task skills: These are the skills needed to do the task or job to the required standard
+    • Task management skills: This is the ability to effectively manage a number of inter related tasks all which make up the job outcome being assessed
+    • Contingency management skills: the ability to cope with irregularities and breakdowns in routine within a job or workplace
+    • Job/role environment skills (outcomes) The ability to deal effectively with the expectations of their work environment, working well with others and under instruction as required 
+When is a person Competent? 
+A person is competent when they are able to consistently apply their knowledge and skills to the standard of performance required in the workplace. 
+Competence-Based Education and Training (CBET) 
+    • An organizational structure for learning/teaching that requires description in advance of the knowledge, skills, and attitudes that a student must possess upon exit from a program or course. 
+    • Competency-based curricula clearly identify objectives, organize instruction based upon performance standards, and evaluate student performance based upon mastery of competencies. 
+    • CBET is an approach to technical education and training that links tasks and responsibilities that professionals encounter in actual work situations to the required learning outcomes for that specific occupation. 
+    • What a professional has to do in his work and the competences that are required, are leading elements in the curriculum development process and in the planning of the programme 
+CBET implies three Phases: 
+1. Analysis of tasks and formulation of competences needed to perform these tasks (occupational profile);
+2. Development of curriculum based upon the occupational competences;
+3. Facilitation (teaching) of the acquisition (learning) of these competences.
+CBET Principles 
+    • Actual workplace is leading, henceforth what to DO, why and how, is guiding principle;
+    • Learning outcomes relate to real tasks;
+    • Knowledge, skills and attitudes are integrated;
+    • Students are given major responsibility in their own learning 
+    • Independent Learning 
+Differences between Competence Based Education versus Knowledge Based Education
+Paradigm Shift 
+    • From knowledge based to competence based;
+    • From teacher centered to student centered;
+    • From  a focus on teaching to fous on learning;
+    • From presentations to participation in active T&L methods. 
+Knowledge Based Learning 
+    • Learning outcomes derived from academic disciplines and theory;
+    • Knowledge, skills, attitudes seperate;
+    • Emphasis on theory, application thereafter;
+    • Teacher- centered: transferring content;
+    • Didactics:based on instruction, transmission; 
+
+Competence Based Learning 
+    • Learning outcomes related to workplace tasks;
+    • Integrating knowledge, skills, attitudes as much as possible;
+    • Learner centered, teacher is facilitating learning process;
+    • Didactics: active learning by students;
+Analysis of competencies – clarification / addition 
+    • Always use an active verb to describe knowledge and skills.
+    • Describe the knowledge, skills or attitudes that are essential for completing the professional task succesfully 
+What are the characteristics of Competency Based Training (CBT)? 
+    • Training is based on competency standards 
+    • Learning is modular in structure 
+    • Training delivery is individualised and self-paced 
+    • Training is based on work that must be performed 
+    • Training resources are directly related to the competency standards 
+    • Assessment of learners is based on collection of evidence of the performance of work to the industry standards 
+    • for Recognition of Prior Learning (RPL) 
+    • The training is based on both ‘on-the-job’ and ‘off-the-job’ components 
+    • CBT allows g allows for multiple entry and exit points and gives credits for units or modules completed 
+What are the advantages of CBT? 
+    • Focuses on the ‘success’ of the learner 
+    • Only deals with ‘essential’ content 
+    • Learner is in control of own learning 
+    • Continuous interaction and feedback must take place 
+    • Learning is carried out in a sequential approach 
+What are the disadvantages of CBT? 
+    •  Requires significant learning resources 
+    • The learning environment should simulate the workplace 
+    • Critics complain that it does not suit ‘higher-order’ learning 
+What is the role of the ‘learner’ and the ‘teacher’ in CBT? 
+    • The learner is ‘self-directed’ i.e. the learner takes the initiative in what, how, and when they will learn. 
+    • The teacher’s role is that of a ‘facilitator’ i.e. the teacher prepares the learning environment; they coach, prompt and help learners to reach their learning goal. 
+Implementation of CBET 
+    • Change to CBET not overnight, takes time, needs commitment of all;
+    • TTI management plays key role in initating and supporting the process;
+    • Staff and students need time to get used to CBET approach;
+    • Industry involvement crucial;
+    • Implementation Plan 
+
+TVET CDACC - Curriculum Development process
+The Technical and Vocational Education and Training Curriculum Development, Assessment and Certification Council (TVET CDACC) is a body corporate established under the Technical and Vocational Education and Training (TVET) Act, No. 29 of 2013. The Council is mandated to undertake design and development of Curricula for the training institutions’ examination, assessment and competence certification and advise the Government on matters related thereto. This is in line with Sessional Paper No. 2 of 2015 that embraces Competency Based Education and Training (CBET) system. The Council is mandated to undertake design and development of competency based curriculum for TVET. This entails: 
+    • Coordinating the development of competency based curriculum
+    • Identifying and appointing Sector Skills Advisory Committees (SSACs)
+    • Overseeing evaluation of curriculum and support materials for Technical and Vocational Education and Training.
+    • Approving proposals for application for development of competency based curriculum
+    • Overseeing printing, publishing and dissemination of curricula and curricula support materials
+CDACC CBET Curriculum Development Process
+    • The Council is mandated to undertake design and development of competency based curriculum for TVET. This entails:
+    • Coordinating the development of competency based curriculum
+    • Identifying and appointing Sector Skills Advisory Committees (SSACs)
+    • Overseeing evaluation of curriculum and support materials for Technical and Vocational Education and Training.
+    • Approving proposals for application for development of competency based curriculum
+    • Overseeing printing, publishing and dissemination of curricula and curricula support materials
+The Council has adopted the following process for development of competency based curriculum.
+
+DEVELOP CBET CURRICULUM
+
+Developing A CurriculUM (DACUM) is a systematic process that analyzes a job by capturing major occupational duties and tasks that competent workers must perform, as defined by a focus group of high performing, incumbent workers, through a facilitated workshop
+IDENTIFICATION OF DUTIES AND TASKS
+    1. Duty - General area of competence that successful workers in the occupation demonstrate or perform on an ongoing basis.
+    • Is the Unit of Competency in the OS and the curriculum
+    2. Task - A work activity that has a definite beginning and ending, is observable, consists of two or more definite steps, and leads to a product, service or decision.
+    • Is the element in the OS and learning outcome in the curriculum
+How to Write a Duty or Task
+    1. Verb (Action Word) + Modifier (Adjective/Adverb, Qualifier) + Noun (Person, Place or Thing)
+Examples:
+    a) Manage (verb) Program (modifier) Budget (noun)
+    b) Implement (verb) Training (modifier) Program (noun)
+    c) Identify (verb) garden (modifier) tools (noun)
+
+    2. Verb + Object + Condition (Context)
+Example: Identify (verb) tools (object) for preparing a seedbed in a farm (context)
+Example of Duty and Respective Tasks
+Duty: Maintain Personal Automobile
+Tasks: 
+    • Wash car exterior
+    • Vacuum floor mats
+    • Wax car exterior
+    • Check fluid levels
+    • Check tire air pressure
+
+ACTIVITIES
+*Use an Occupation Analysis Chart to display the duties and respective tasks.
+*Develop task analysis.
+*Develop the Occupation Standard.
+*Develop curriculum using the OS
+*Develop a curriculum from the OS
+
+
+SAMPLE FORMAT FOR OCCUPATIONAL ANALYSIS
+OCCUPATION ANALYSIS CHART FOR HORTICULTURE PRODUCER - LEVEL 6
+Workshop Panel Members:
+    1. Expert 1 – Chair
+    2. Expert 2 – Secretary 
+    3. Expert 3
+    4. Expert 4
+    5. Expert 5
+CORE UNITS OF COMPETENCY HORTICULTURE PRACTITIONER - LEVEL 6
+
+DUTIES	TASKS
+A
+	A1
+	A2
+	A3
+	A4
+	A5
+	A6
+B 
+	B1
+	B2
+ 	B3
+	B4
+	B5
+	B6
+
+C
+	C1
+	C2
+	C3
+	C4
+	C5
+ 	C6
+
+D
+	D1
+ 	D2
+	D3
+	D4
+ 	D5 
+	D6 
+NB: A job may have as many duties and tasks
+
+ENABLERS:
+Required knowledge:
+    •  E.g Principles of management	Required skills:
+    • E.g Problem solving skills
+
+Worker Behavior/Personal attributes:
+e.g Honesty
+
+
+
+	Required resources:
+    • E.g Tools and Equipment
+
+    • Materials and Supplies
+e.g Chemical reagents
+
+
+
+
+CURRICULUM CHANGE AND INNOVATION 
+Innovation is one major type of change in which something new is added to an existing curriculum.  It involves initiating something new to facilitate the achievement of set goals and objectives in the educational system.  Any innovation should be systematically implemented.  An innovation can only be justified on the basis of achieving anticipated outcomes
+
+FACTORS THAT NECESSITATE CURRICULUM CHANGE
+In this section, we shall talk about some of the forces which affect curriculum change in a country.  Some specific factors have been selected for our discussion in this topic.  We shall specifically talk about social and demographic factors, economic factors, political factors, research and growth in knowledge.
+    i. Social and demographic factors
+The nature of the population has a direct relation to curriculum planning, development and change.  The society and the environment in which we live change and these changes affect the schools which are part of the society.  Change in the society is also reflected in the school curriculum. Social problems such as unemployment affect people’s way of life.  It is the curriculum which is charged with the responsibility of ensuring that social problems are alleviated. Innovations in curriculum may come out of a need to deal with the current population problems such as the ones you have just outlined above.  Public institutions, organizations and private agencies may be sources of change, or may also support change. The type and level of support will be varied, including economic support.  These institutions may also resist change if it is not in favour of the well being of society.  Changes in these institutions will generally affect the curriculum, either directly or indirectly.
+    ii. Economic factors
+The existing economic order in a given country such as Kenya coupled with a new technology requires that students be introduced to new sets of skills to meet economic challenges.  The state of the economy in the country will influence the curriculum.  Many innovations in the school curriculum have come about due to certain economic problems. Many economic problems such as poverty and unemployment have forced educational systems to change their curricula in an attempt to provide solutions to the problems.  A curriculum which is not in line with the official economic policies may not succeed. A new curriculum requires more trained personnel, particularly teachers, more facilities, material production, text books, experiments and research to sustain the programme.  This implies an increase in the national education budget. The new programme would not take off if these budgetary considerations are not put in place.
+    iii. Political Factors
+In most countries, developed or developing, government’s control and finance education.  This means that they have a lot of control in curriculum development.  A good relationship must exist between curriculum developers and the government in power.  This is because the government can either promote or block any curriculum project which does not favour her policies and political ideology. The government provides support to curriculum changes and innovations.  In circumstances where there are frequent government changes, a curriculum project or innovation could either take too long to take off or cease to exist.  We should however note that curriculum projects should not contradict national policies as set out by the government.
+    iv. Research and growth in knowledge (Epistemology)
+Research findings do affect greatly the way we teach and choose what to teach.  Knowledge is an important source of curriculum content.  Curriculum specialists must update themselves with new knowledge and also establish its validity and reliability.  Each year there is a lot of knowledge from research.  It is important to know how much of this knowledge is good enough for instructional purposes.  For example, there are quite a number of theories on the nature of the child and how learning takes place.   All these changes in knowledge must be considered while developing a school curriculum.
+    v. Technological factors
+Technology has forced the school curriculum to go through change since schools are always trying to change their programmes to cope with new technology. Now look at the following questions:
+
+    • What kind of technology do you think the school can use?
+    • How much should the schools change in response to this technology?
+    • What are the implications of these changes on the functions of the school?
+
+All these are crucial questions in planning the school curriculum.  Technological changes have serious consequences for planning the curriculum.  This is because some of the changes may contradict the kind of knowledge and values that society wants its youth to be given.  These may also lead to changes in values and norms of society, thus putting a lot of pressure on the curriculum.
+
+CRITERIA FOR ACCEPTING OR REJECTING AN INNOVATION
+We can identify five basic criteria upon which an innovation can be judged. 
+    i. Relative advantage
+The degree to which an innovation is perceived as being better or more useful will determine its acceptability and the rate of adoption.  An innovation will be considered relevant if it compares favourably or better with other practices or activities.  The adopters will accept an innovation if it will improve learning, is economically manageable, has low initial cost and is less risky compared to existing standards.
+    ii. Compatibility
+This refers to the degree to which an innovation is seen to agree with or to be supportive of the potential adopter’s needs and values.  It is also necessary to know how the new idea or practice fits into or supports the existing educational programme. Compatibility ensures greater security and less risk to the user, and makes the innovation more meaningful.
+    iii. Triability
+This refers to the extent to which an innovation can be piloted, without taking too much time, energy or funds.  It is better if adequate data can be obtained from a small scale trial in order to make a decision as to whether the innovation is necessary or not.
+    iv. Observability
+Stakeholders in an innovation such as potential adopters and sponsors would like to see tangible results from their efforts.  They need to know the immediate consequences of the innovation in the country.  Effective accountability requires availability of concrete information.
+    v. Complexity
+An innovation must be simple enough to be understood and utilized by the user.  Complexity may lead to rejection by potential adopters.  If teachers find an innovation too difficult to understand and implement, they are likely to reject it.
+
