@@ -1,0 +1,74 @@
+﻿
+BUSINESS EDUCATION DEPARTMENT
+DIPLOMA IN TECHNICAL TRAINER EDUCATION
+BSC7124 APPLY MATHS FOR ECONOMICS
+COURSE OUTLINE
+
+UNIT CODE: ECO/CU/BUS/BC/2/6	
+
+Relationship to Occupational Standards
+This unit addresses the unit of competency: Demonstrate business mathematics and statistics skills
+ Duration of Unit: 60 hours
+Unit Description
+This unit describes the competencies required by a worker in order to carry out Correlation and Regression analysis, perform Elementary statistics, carry out Descriptive statistics, apply Set theory, apply Basic probability theory and Determine Index numbers for work
+
+Summary of Learning Outcomes
+    1. Carry out Correlation and Regression analysis for work
+    2. Perform Elementary statistics for work 
+    3. Carry out Descriptive statistics for work
+    4. Apply Basic probability theory for work
+    5. Determine Index numbers
+
+Learning Outcomes, Content and Suggested Assessment Methods
+Learning Outcome	Content	Suggested Assessment Methods
+    1. Carry out Correlation and Regression
+	    • Definition of terms correlation and regression
+    • Methods of studying correlation
+    • Interpretation of correlation coefficient
+    • Linear regression equation 
+    • Forecasting using regression equation	    • Written tests
+    • Assignments
+    • Supervised exercises
+    2. Perform Elementary statistics	    • Methods of data collection 
+    • Sampling techniques and presentation of data
+    • Tables and diagrams
+    • Frequency distribution tables
+    • Histogram and frequency polygons
+    • Cumulative frequency curve (OGIVE) 	    • Written tests
+    • Assignments
+    • Supervised exercises
+    3. Carry out Descriptive statistics	    • Measures of central tendency: mean, median and mode
+    • Measures of dispersion std dev and CV 
+    • Measures of skewness and kurtosis      	    • Written tests
+    • Assignments
+    • Supervised exercises
+    4. Apply Basic probability theory
+	    • Probability events
+    • Types of events
+    • Laws of probability: additive and multiplicative laws. 
+    • Probability Distributions
+    • Binomial
+    • Poisson
+    • Normal	    • Written tests
+    • Assignments
+    • Supervised exercises
+    5. Determine Index numbers					    • Index numbers
+    • Methods of determining index numbers
+    • Consumer Price Index (CPI). 
+    • Weighted index numbers	    • Written tests
+    • Assignments
+    • Supervised exercises
+
+Suggested Delivery Methods
+    • Group discussions
+    • Demonstration by trainer
+    • Practical work by trainee
+    • Exercises
+
+Recommended Resources
+    • Calculators
+    • Rulers, pencils, erasers
+    • Charts with presentations of data
+    • Graph books
+    • Dice 
+    • Internet 
