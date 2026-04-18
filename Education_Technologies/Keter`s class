@@ -1,1 +1,190 @@
+Introduction to LMS
+Definition 1: A Learning Management System (LMS) is a software application or platform designed to facilitate the delivery, management, and tracking of online learning and training programs. LMSs are widely used in academic and corporate settings to manage and deliver training, education, and professional development courses.
 
+Definition 2: A learning management system is a software application or web-based technology used to plan, implement and assess a specific learning process. It's used for e-learning practices and, in its most common form, consists of two elements: a server that performs the base functionality and a user interface (UI) that is operated by instructors, students and administrators.
+
+Typically, an LMS provides an instructor with a way to create and deliver content, monitor student participation, and assess student performance. It might also provide students with interactive features, such as threaded discussions, video conferencing and discussion forums.
+
+Introduction to LMS (Cont')
+The Advanced Distributed Learning group, sponsored by the U.S. Department of Defense, has created a set of specifications called the Sharable Content Object Reference Model (SCORM) to encourage the standardization of LMSes.
+
+An LMS provides a centralized platform for instructors, trainers, and administrators to create, manage, and deliver learning content, as well as monitor and assess learners' progress and performance. Some common features of an LMS include:
+
+Course creation and management tools
+Content delivery and distribution tools (e.g., online courses, videos, and documents)
+Learner enrollment and registration tools
+Communication tools (e.g., email, chat, and discussion forums)
+Assessment and testing tools (e.g., quizzes and exams)
+Progress tracking and reporting tools
+
+Introduction to LMS (Cont')
+LMSs are often used to deliver online training and development programs, but they can also be used for blended learning, which combines online and face-to-face instruction. LMSs can be self-hosted or cloud-based, and they can be customized to meet the specific needs of different organizations and institutions.
+
+Categories of Learning Management Systems
+There are two main categories of LMS i.e;
+
+- Open Source LMS
+
+- Cloud Based LMS
+
+
+Categories of LMS (Cont')
+Open Source LMS
+
+Like the name suggests, an Open Source LMS has an open source code that you can access for free, and customize it according to your specific requirements. The most popular example of an Open Source LMS is Moodle which is a feature-rich platform with community support. Though originally designed for academia, Moodle has found its use-cases in corporate learning as well. Moodle can be customized and extended to suit various learning environments by using community-sourced plugins.
+
+Categories of LMS (Cont')
+Cloud Based LMS
+
+Cloud LMS is a web-based LMS hosted on the servers of the service provider (vendor). It is offered as a completely managed Software-as-a-Service (SaaS). You can subscribe to the software and can access it from anywhere and any device. Users can log in with a username and password and can either access the content online or download the e-learning course material for offline usage. Cloud LMS provides more flexibility in scaling up or down and since it is a hosted service, you are free from the hassles of installing plugins, troubleshooting or making updates. All the maintenance is done by the service provider themselves.
+
+Types of Cloud Based LMS
+1. Docebo
+Docebo Learn LMS is praised for its ease of use, high configurability, robust learning management, delivery functionalities, and affordable monthly active user pricing model. 
+
+Highlights
+
+• Train any audience, anytime, anywhere
+
+• 35+ native integrations and APIs
+
+• Configurability limited only by your imagination
+
+• Know the true impact learning is having on your business
+
+Types of Cloud Based LMS
+2. Adobe Captivate Prime
+
+With Adobe Captivate Prime, train employees, partners, and customers effectively with a next-gen LMS. Deliver an enhanced and enjoyable learning experience for your learners.
+
+Highlights
+
+• Recognized by leading analysts and industry bodies
+
+• Awarded for excellence across multiple categories
+
+• Adopted by leading corporations around the world
+
+• Used by millions of engaged learners
+
+Types of Cloud Based LMS
+3. TalentLMS
+
+Trusted by 70,000+ teams worldwide, TalentLMS works as an all-in-one solution for businesses looking to build training programs that will result in stronger teams.
+
+Highlights
+
+• Set up your training without manuals
+
+• Training is always available on the cloud
+
+• Try for free, upgrade on a budget
+
+ Types of Cloud Based LMS
+4. SAP Litmos
+
+SAP Litmos Training is a powerful, award-winning LMS that can be implemented as a standalone solution or in combination with a robust course library, SAP Litmos Training Content. Don't forget to sign up for a free trial. You'll get a hands-on experience on its user-friendly UX!
+
+Highlights
+
+• Rapid deployment and integration
+
+• Task automation
+
+• Online course builder and content management
+
+• Tracking and reporting
+
+Types of Cloud Based LMS
+5. LearnUpon LMS
+
+LearnUpon is a single solution built to efficiently manage, deliver, and track corporate training for every audience: employees, customers, and partners.
+
+Highlights
+
+• Easy-to-use and quick-to-set-up
+
+• Learning portals
+
+• Customer-driven product strategy
+
+• World-class support
+
+Types of Cloud Based LMS
+6. Inquisiq LMS
+
+Inquisiq is an award-winning, feature-rich LMS with the functionality your organization wants and needs at a price that fits your budget.
+
+Highlights
+
+• Configurable interface with full mobile compatibility
+
+• A great tool to implement blended learning
+
+• Learning automation
+
+• Makes social learning easy
+
+ Types of Cloud Based LMS
+7. Stream LXP from Learning Pool
+
+Learning Pool has accomplished a lot within the last 12 months. One of this year's highlights was the growth of its client base to more than 800 global organizations. The major expansion led to the launch of its new LXP, Stream.
+
+Highlights
+
+• Compliance made easy
+
+• Support built for confidence and peace of mind
+
+• Improved management information
+
+• Freedom with an open source platform
+
+• Fully developed roadmap
+
+Types of Cloud Based LMS
+7.  Mindflash LMS
+
+Mindflash is an easy-to-use, cloud-based eLearning solution that is perfect for customer, partner, and employee training. Their course builder makes it easy to create training content, add quizzes, and track results.
+
+Highlights
+
+• Accessible and remote-friendly learning
+
+• Create engaging courses
+
+• Excellent reporting tools
+
+ Types of Cloud Based LMS
+8. Absorb LMS
+
+Absorb is a cloud-based Learning Management System engineered to inspire learning and fuel business productivity. They’ve been exclusively focusing on eLearning for 17+ years.
+
+Highlights
+
+• Design
+
+• Robustness
+
+• Service
+
+Moodle
+ 
+Moodle is a free software, a learning management system providing a platform for e-learning and it helps the various educators considerably in conceptualizing the various courses, course structures and curriculum thus facilitating interaction with online students.
+
+Moodle was devised by Martin Dougiamas and since its inception, its primary agenda has been to contribute suitably to the system of e-learning and facilitate online education and attainment of online degrees.
+
+Moodle actually stands for Modular Object-Oriented Dynamic Learning Environment and statistics reveal that about 14 million consumers are engaged in about 1.4 million courses propagated by this learning management system.
+
+
+Systems compatibility of MOODLE
+While Moodle presents certain common features in almost all similar e-learning tools, it also provides certain plug-in options. As an e-learning platform, Moodle features:
+
+Blogs
+Chats
+Database activities
+Glossaries
+Support systems enabling the functioning in multiple languages
+Content management
+Regular examination and assessment
+The current infrastructure facilities adopted by Moodle enable it to support a plethora of plug-in options like graphical themes and content filters, enrolment and authentication processes as well as resource and question patterns.
